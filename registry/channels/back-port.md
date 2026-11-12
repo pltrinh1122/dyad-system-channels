@@ -4,7 +4,7 @@ owner: dyad-system
 sources: any member: a fix offered back, with its licence release
 admission: open
 posting: members
-monitor: session-start
+monitor: interval 16-1024
 limits: 16 KiB, 20 per hour
 decision-rights: none
 content-rules: CONTENT-RULES.md#post-content #backport-post, channels 0.1.0

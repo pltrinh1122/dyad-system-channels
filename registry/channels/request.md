@@ -4,7 +4,7 @@ owner: dyad-system
 sources: any member: an enhancement, with its operator's own prompt; dyad-system: its answer to one
 admission: open
 posting: members
-monitor: session-start
+monitor: interval 16-1024
 limits: 16 KiB, 20 per hour
 decision-rights: none
 content-rules: CONTENT-RULES.md#post-content #request-post, channels 0.1.0
